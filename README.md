@@ -8,7 +8,6 @@ Email Me 👉 ✉️ **usmanhhashmis@gmail.com** for collaboration, projects, or
 👯 I’m looking to collaborate on: Next.js, Laravel, MERN Stack, Supabase, Stripe, AI, and custom API development projects  
 🤔 I’m looking for help with: Growing impactful SaaS products and building smarter AI-powered business tools  
 💬 Ask me about: Laravel, Next.js, React, Node.js, Supabase, Stripe, Twilio, OpenAI API, dashboards, and web scraping  
-📫 How to reach me: **usmanhhashmis@gmail.com**  
 😄 Pronouns: Muhammad Usman  
 ⚡ Fun fact: I turn complex business ideas into clean, scalable web applications  
 🔗 Upwork: [Top Rated Plus Profile](https://www.upwork.com/freelancers/~013cbd392b07ce91b7)
